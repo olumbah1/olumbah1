@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-```python
+```javascript
 const developer = {
     name: "Adeoye Olumide Samuel",
     role: "Backend Developer",
