@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Olumide | Backend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Problem+Solver;ALX+Software+Engineering+Graduate;Building+APIs+that+Matter;Passionate+about+Clean+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Problem+Solver;System+Designer;Building+APIs+that+Matter;Passionate+about+Clean+Code" alt="Typing SVG" />
 </div>
 
 ---
