@@ -146,14 +146,12 @@ const developer = {
 ## 📌 Current Focus
 
 <details>
-  
-<summary><b>🔥 What I'm Working On</b></summary>
+
 - Building backend services using **FastAPI and Go**  
 - Exploring microservices architecture and concurrency patterns  
 - Improving system performance and scalability
 
 </details>
----
 
 ## 💼 Why Hire Me?
 
