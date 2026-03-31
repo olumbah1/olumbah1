@@ -20,9 +20,9 @@ const developer = {
 };
 ```
 
-🎯 **My Journey**: 7+ months and still counting intensive training in Backend Development through ALX's rigorous program  
-💡 **What Drives Me**: Transforming complex problems into elegant solutions through code  
-🌟 **Vision**: Creating impactful applications that make a difference in people's lives  
+ **My Journey**: 1+ year and still counting intensive building in Backend Development   
+ **What Drives Me**: Transforming complex problems into elegant solutions through code  
+ **Vision**: Creating impactful applications that make a difference in people's lives  
 
 ---
 
@@ -32,6 +32,10 @@ const developer = {
 
 ### **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### **Databases & Storage**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,12 +47,13 @@ const developer = {
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -94,7 +99,7 @@ const developer = {
 </td>
 <td width="50%">
 
-### 📦 Product Inventory API
+### 🔹 Product Inventory API
 **Smart inventory management solution**
 - Real-time inventory tracking
 - Low stock notifications
@@ -127,7 +132,6 @@ const developer = {
 ## 🔐 Backend Focus
 
 <details>
-<summary><b>🔥 What I'm Working On</b></summary>
 
 - API Design and Development  
 - Authentication and Authorization (JWT, OAuth, 2FA)  
@@ -137,13 +141,18 @@ const developer = {
 
 </details>
 
+---
 <details>
+  
 ## 📌 Current Focus
+
+<summary><b>🔥 What I'm Working On</b></summary>
 - Building backend services using **FastAPI and Go**  
 - Exploring microservices architecture and concurrency patterns  
 - Improving system performance and scalability
----
+
 </details>
+---
 
 ## 💼 Why Hire Me?
 
@@ -156,10 +165,10 @@ const developer = {
 </div>
 
 ### What I Bring to Your Team:
-- **🔥 Fresh Perspective**: Recent training in modern backend development practices
-- **💪 Problem-Solving Mindset**: Approach challenges with systematic thinking
-- **🤝 Collaboration Ready**: Experience with Git workflows and team development
-- **📈 Growth Oriented**: Eager to learn, contribute, and grow with your organization
+- ** Fresh Perspective**: Recent training in modern backend development practices
+- ** Problem-Solving Mindset**: Approach challenges with systematic thinking
+- ** Collaboration Ready**: Experience with Git workflows and team development
+- ** Growth Oriented**: Eager to learn, contribute, and grow with your organization
 
 ---
 
@@ -197,7 +206,7 @@ const developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
   
-  **✨ "Turning ideas into code, one API at a time" ✨**
+  **✨**"Building systems that scale, perform, and solve real problems."**✨**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=olumbah1&color=blueviolet&style=flat-square&label=Profile+Views)
 </div>
