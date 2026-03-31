@@ -163,11 +163,11 @@ const developer = {
 
 </div>
 
-### What I Bring to Your Team:
-- ** Fresh Perspective**: Recent training in modern backend development practices
-- ** Problem-Solving Mindset**: Approach challenges with systematic thinking
-- ** Collaboration Ready**: Experience with Git workflows and team development
-- ** Growth Oriented**: Eager to learn, contribute, and grow with your organization
+### ✨ What I Bring to Your Team:
+- **Fresh Perspective**: Recent training in modern backend development practices
+- **Problem-Solving Mindset**: Approach challenges with systematic thinking
+- **Collaboration Ready**: Experience with Git workflows and team development
+- **Growth Oriented**: Eager to learn, contribute, and grow with your organization
 
 ---
 
