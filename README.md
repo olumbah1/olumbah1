@@ -19,7 +19,7 @@ const developer = {
 };
 ```
 
- **My Journey**: 1+ year and still counting intensive building in Backend Development   
+ **My Journey**: 2+ year and still counting intensive building in Backend Development   
  **What Drives Me**: Transforming complex problems into elegant solutions through code  
  **Vision**: Creating impactful applications that make a difference in people's lives  
 
