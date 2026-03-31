@@ -12,10 +12,9 @@
 const developer = {
     name: "Adeoye Olumide Samuel",
     role: "Backend Developer",
-    education: "ALX Software Engineering (Backend Dev & Backend ProDev)",
-    passion: ["Problem Solving", "API Development", "Inspiring Others"],
+    passion: ["Problem Solving", "System Design", "API Development", "Inspiring Others"],
     mission: "Building applications that solve real-world problems",
-    currentGoal: "Seeking Junior/Entry-level Backend Developer opportunities",
+    currentGoal: "Seeking a Mid-level Backend Developer opportunities",
     availability: "Open to opportunities - Ready to start immediately"
 };
 ```
@@ -142,10 +141,12 @@ const developer = {
 </details>
 
 ---
-<details>
+
   
 ## 📌 Current Focus
 
+<details>
+  
 <summary><b>🔥 What I'm Working On</b></summary>
 - Building backend services using **FastAPI and Go**  
 - Exploring microservices architecture and concurrency patterns  
@@ -160,7 +161,7 @@ const developer = {
 
 |**Team Work** | **Hands-on Experience** | **Growth Mindset** |
 |:---:|:---:|:---:|
-| Intensive ALX training with proven curriculum | Multiple full-stack API projects | Constantly learning and adapting to new technologies |
+| Collaboration between frontend teams | Multiple full-stack API projects | Constantly learning and adapting to new technologies |
 
 </div>
 
@@ -188,7 +189,7 @@ const developer = {
 
 <div align="center">
 
-**I'm actively seeking Junior Backend Developer opportunities!**
+**I'm actively seeking mid-level Backend Developer opportunities!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adeoye-olumide)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeoyesamuelolumide0@gmail.com)
