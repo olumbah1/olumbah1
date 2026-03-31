@@ -54,56 +54,52 @@ const developer = {
 <tr>
 <td width="50%">
 
-### 🌐 Social Media API
-**A comprehensive social platform backend**
-- 🔐 **JWT Authentication** & User Management
-- 👥 **Social Features**: Follow/Unfollow, Likes, Comments
-- 📸 **Media Handling**: Image uploads & processing
-- 🔗 **Interactive Endpoints**: Real-time social interactions
+### 🔹 Multi-Tenant ERP & Procure-to-Pay System  
+- Engineered a multi-tenant ERP platform with Procure-to-Pay workflows (PRF, RFQ, PO, GRN, PRV)  
+- Designed tenant-level data isolation and role-based access control for secure multi-organization operations  
+- Implemented approval workflows for high-value transactions and audit-ready compliance systems  
+- Built vendor lifecycle management including RFQ bidding and automated notifications 
 
-**Tech**: Django | Django Rest API | MongoDB | JWT 
+**Tech**: Django | Django Rest API | Psotgres | JWT 
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK](https://github.com/olumbah1/Alx_DjangoLearnLab.git))
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK])
 
 </td>
 <td width="50%">
 
-### 📝 Blog API Platform
-**Feature-rich blogging system**
-- ✍️ **Content Management**: Create, Edit, Delete posts
-- 🏷️ **Categorization**: Tags and categories system
-- 💬 **Engagement**: Comments and interactions
-- 🔍 **Search & Filter**: Advanced content discovery
+### 🔹 AI Mailer Agent (AWS, Django)  
+- Built and deployed an AI-powered email scheduling system with background processing  
+- Integrated Gmail SMTP and webhook communication for real-time automation  
+- Improved reliability using retries, logging, and state management  
+- Deployed on AWS EC2 and RDS for scalability and performance
 
-**Tech**: Python | Flask/Django | PostgreSQL | RESTful API
+**Tech**: Python | Django | PostgreSQL | RESTful API
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK](https://github.com/olumbah1/Alx_DjangoLearnLab.git))
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK])
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📚 Book Library API
-**Digital library management system**
-- 📖 **Book Catalog**: Advanced book management
-- 👤 **User Profiles**: Reading history & preferences
-- 🔄 **Borrowing System**: Check-in/Check-out functionality
-- 📊 **Analytics**: Usage statistics and reporting
+### 🔹 CRM System (GraphQL, Django)  
+- Designed a GraphQL API for customer, product, and order management  
+- Implemented advanced filtering, pagination, and bulk operations  
+- Ensured data integrity through validation and transactional logic  
 
-**Tech**: Python | Django | SQLite3 | RESTful API
+**Tech**: Python | GraphQL | SQLite3 | RESTful API
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK](https://github.com/olumbah1/Alx_DjangoLearnLab.git))
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github)]([YOUR_REPO_LINK])
 
 </td>
 <td width="50%">
 
 ### 📦 Product Inventory API
 **Smart inventory management solution**
-- 🏪 **Stock Management**: Real-time inventory tracking
-- 🔔 **Alerts**: Low stock notifications
-- 📈 **Reporting**: Sales and inventory analytics
-- 🔐 **Multi-role Access**: Admin and user permissions
+- Real-time inventory tracking
+- Low stock notifications
+- Sales and inventory analytics
+- Admin and user permissions
 
 **Tech**: Python | FastAPI | PostgreSQL | Redis
 
@@ -128,41 +124,32 @@ const developer = {
 
 ---
 
-## 🎯 Current Focus & Learning Path
+## 🔐 Backend Focus
 
 <details>
 <summary><b>🔥 What I'm Working On</b></summary>
 
-- 🏗️ **Advanced API Architecture**: Microservices and scalable design patterns
-- 🔒 **Security Best Practices**: OAuth2, rate limiting, and data protection
-- ☁️ **Cloud Technologies**: AWS, deployment, and DevOps fundamentals
-- 🧪 **Testing**: Unit testing, integration testing, and TDD practices
+- API Design and Development  
+- Authentication and Authorization (JWT, OAuth, 2FA)  
+- System Design and Scalability  
+- Database Optimization  
+- Performance and Reliability  
 
 </details>
 
 <details>
-<summary><b>📚 Learning Roadmap</b></summary>
-
-**Immediate Goals (Next 3 Months)**:
-- [ ] Complete ALX Backend ProDev program
-- [ ] Build portfolio-worthy capstone project
-- [ ] Master system design fundamentals
-- [ ] Secure Junior Developer position
-
-**Future Aspirations**:
-- [ ] Contribute to open-source projects
-- [ ] Build scalable applications that impact thousands
-- [ ] Mentor other aspiring developers
-
-</details>
-
+## 📌 Current Focus
+- Building backend services using **FastAPI and Go**  
+- Exploring microservices architecture and concurrency patterns  
+- Improving system performance and scalability
 ---
+</details>
 
 ## 💼 Why Hire Me?
 
 <div align="center">
 
-| 🎓 **Structured Learning** | 🛠️ **Hands-on Experience** | 🚀 **Growth Mindset** |
+|**Team Work** | **Hands-on Experience** | **Growth Mindset** |
 |:---:|:---:|:---:|
 | Intensive ALX training with proven curriculum | Multiple full-stack API projects | Constantly learning and adapting to new technologies |
 
@@ -181,10 +168,10 @@ const developer = {
 > *"Code is not just about solving problems—it's about inspiring solutions that can change lives."*
 
 **Core Values:**
-- **🎯 Purpose-Driven Development**: Every line of code should solve a real problem
-- **🌱 Continuous Growth**: Learning never stops in tech
-- **🤝 Community Impact**: Using technology to make a positive difference
-- **💡 Innovation**: Always looking for better, more efficient solutions
+- **Purpose-Driven Development**: Every line of code should solve a real problem
+- **Continuous Growth**: Learning never stops in tech
+- **Community Impact**: Using technology to make a positive difference
+- **Innovation**: Always looking for better, more efficient solutions
 
 ---
 
